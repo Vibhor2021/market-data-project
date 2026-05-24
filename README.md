@@ -9,7 +9,6 @@ ETL Pipeline
 PostgreSQL
 
 ## Features
-
 - Synthetic Market Data API
 - Fault Injection (5%)
 - Pydantic Validation
